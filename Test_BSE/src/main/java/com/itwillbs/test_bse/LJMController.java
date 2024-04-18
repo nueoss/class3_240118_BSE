@@ -4,5 +4,7 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class LJMController {
-	// 수정
+	//아니 왜 안돼
+	// ektlektl
+	
 }
